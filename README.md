@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome!
+This is the public GitHub page for Cornell J. Wilson. It is rather empty :(
+
+I am a computer engineer working at NASA Langley Research Center. I am the software lead for the [SCALPSS Project](https://www.nasa.gov/feature/langley/tiny-nasa-cameras-to-watch-commercial-lander-form-craters-on-moon) and eagerly await its maiden voyage this summer.
+
+I'm currently enrolled in the [VEO program](https://engineering.virginia.edu/online) at UVA, where I'm hoping to learn more about digital electronics and communications.
+
+In my free time I enjoy listening to audiobooks, going for runs, and playing with my dog and 2 cats.
 
 <!--
 **YungCorn/YungCorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
